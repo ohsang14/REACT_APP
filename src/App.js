@@ -29,7 +29,7 @@ function Nav() {
 function Article() {
   return (
     <article>
-      <h2>Welcome</h2>Hello, WEB
+      <h2>Welcome</h2>Hello, WEBto my self
     </article>
   );
 }
